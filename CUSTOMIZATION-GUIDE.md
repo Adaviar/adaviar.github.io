@@ -6,7 +6,7 @@
 Find this section in `index.html` (around line 162):
 
 ```html
-<h5>Project Genesis</h5>
+<h5>Cyber Slum Tycoon</h5>
 <p>Our flagship title currently in early development...</p>
 ```
 
@@ -16,7 +16,7 @@ Replace with your actual game name and description!
 Find this in the footer (around line 348):
 
 ```html
-<p style="color: #999; margin-top: 20px;">Email: contact@adaviargames.com</p>
+<p style="color: #999; margin-top: 20px;">Email: contact@adaviarcore.com</p>
 ```
 
 Change to your real email address.
@@ -25,8 +25,8 @@ Change to your real email address.
 Find the social icons (around line 344) and update the `href="#"` with your actual social media URLs:
 
 ```html
-<a href="https://twitter.com/yourhandle">
-<a href="https://facebook.com/yourpage">
+<a href="https://x.com/Adaviarcore">
+<a href="https://instagram.com/Adaviar">
 ```
 
 ## 🎨 Common Customizations
